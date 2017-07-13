@@ -15,7 +15,7 @@ namespace InheritanceProblems
         protected double movementSpeed;
         protected double distanceTraveled;
 
-        private float gearRatio;
+        protected float gearRatio;
         private float engineSize;
 
         //properties
